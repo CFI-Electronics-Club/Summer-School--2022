@@ -1,1 +1,0 @@
-Get the input from the gas sensor and when the input is more than 500 turn on a Fan(DC motor) 

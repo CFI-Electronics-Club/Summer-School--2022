@@ -1,1 +1,0 @@
-Using a Pullup Resistor to create a Toggle Switch
